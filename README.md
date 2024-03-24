@@ -1,7 +1,7 @@
 # Olympic Athletes and Results Dataset Exploration
 
 ## Overview
-This dataset [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data)provides information about athletes' demographics and their performance in various Olympic games over the past 120 years. It includes details such as age, height, weight, sex, team, and the medals won by athletes. The dataset allows for exploration of trends, patterns, and insights into the world of Olympic sports.
+This dataset [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data) provides information about athletes' demographics and their performance in various Olympic games over the past 120 years. It includes details such as age, height, weight, sex, team, and the medals won by athletes. The dataset allows for exploration of trends, patterns, and insights into the world of Olympic sports.
 
 ## Dataset Information
 - **ID**: Unique identifier for each athlete
